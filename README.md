@@ -1,6 +1,5 @@
 ### hello!!
-- im currently working on nothing
-- im currently working with GamingKittyCath, RandomDeveloper
-- i worked on NPCs are becoming smart 2 before
+- im currently working on kittyware
+- im currently working with cafeed
+- i worked on NABS 2
 - my discord is [here](https://nullify.rest)
-- i wish i could change my github username
